@@ -1,2 +1,3 @@
 Este es un fichero que hemos creado en master
 antes de abrir la rama.
+Este cambio se hace en master.
